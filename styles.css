@@ -2,8 +2,13 @@
     background-color: #F9F4E7;
 }
 
-.title-text{
+.title-text,
+.menu-text {
     font-family:'Courier New', Courier, monospace;
     font-weight:100;
     text-align: center;
+}
+
+.menu-text {
+    color: black;
 }
