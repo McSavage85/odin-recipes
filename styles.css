@@ -19,3 +19,13 @@
     text-align: left;
     text-decoration: underline;
 }
+
+.body-text {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+}
+
+.list-items li{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+}
