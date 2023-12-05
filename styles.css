@@ -12,3 +12,10 @@
 .menu-text {
     color: black;
 }
+
+.recipe-name {
+    font-family:'Courier New', Courier, monospace;
+    font-weight:100;
+    text-align: left;
+    text-decoration: underline;
+}
