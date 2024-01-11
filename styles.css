@@ -32,4 +32,15 @@
 
 .image-shadow {
     filter: drop-shadow(5px 5px 5px black);
+    padding-right: 10px;
+    display: inline-block;
+}
+
+.info{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    margin-top: 0px;
+    display:inline-block;
+    vertical-align:top;
+    height: fit-content;
 }
