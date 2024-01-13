@@ -28,6 +28,7 @@
 .list-items li{
     font-family: 'Courier New', Courier, monospace;
     font-size: 14px;
+    max-width: 500px;
 }
 
 .image-shadow {
